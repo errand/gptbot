@@ -1,0 +1,11 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "openai-php/client": "^0.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kottenberg\\": "src"
+        }
+    }
+}
